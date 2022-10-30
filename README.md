@@ -10,15 +10,6 @@ It recommends healthy routes based on different constraints the user can set suc
 
 <img width="1080" alt="HeMoMarketing3" src="https://user-images.githubusercontent.com/33159293/198879839-610ecbda-45f9-465f-9dc3-2234d7219767.png">
 
-Architecture
-
-The architecture of the app is made up of the following types:
-Views present data and trigger side effects by the user's actions (eg. tap on a button) that are forwarded to the ViewModel. Views do not contain any business logic.
-ViewModels serve as a intermediator between Views and Services. They contain business logic local to the View and delegate the triggered side effects to Services. ViewModels observe changes to the AppState and provide up-to-date data to the View.
-Services receive requests from ViewModels and perform work such as obtaining data from external resources or make domain specific computations. They forward the result to the AppState or to a Binding if the result is only locally used by one ViewModel and does not belong to the AppState.
-Repositories provide asynchronos interfaces for creating, updating or fetching data from external resources like databases or backend servers. Repositories do not contain any business logic.
-The centralized AppState contains data shared across the application and serves as the single source of truth.
-
 ## Architecture
 
 The architecture of the app is made up of the following types:
