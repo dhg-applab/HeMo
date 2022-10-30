@@ -1,4 +1,9 @@
+<a href="https://testflight.apple.com/join/...">
+<img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64_2x.png" height="42" align="right">
+</a>
+
 # TUM HeMo - Healthy Mobility
+
 
 More than half of the European population does not reach the 150 minutes of moderate-intensity aerobic physical activity per week that is recommended by the World Health Organization.
 Traditional apps in wearables and smartphones tackle this problem with different behavior change techniques (BCT).
