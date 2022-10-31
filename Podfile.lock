@@ -1,0 +1,32 @@
+PODS:
+  - Mapbox-iOS-SDK (5.9.0):
+    - MapboxMobileEvents (= 0.10.2)
+  - MapboxGeocoder.swift (0.13.0)
+  - MapboxMobileEvents (0.10.2)
+  - Polyline (4.2.1)
+  - SwiftLint (0.42.0)
+
+DEPENDENCIES:
+  - Mapbox-iOS-SDK (~> 5.9)
+  - MapboxGeocoder.swift (~> 0.12)
+  - Polyline (~> 4.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Mapbox-iOS-SDK
+    - MapboxGeocoder.swift
+    - MapboxMobileEvents
+    - Polyline
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Mapbox-iOS-SDK: a5915700ec84bc1a7f8b3e746d474789e35b7956
+  MapboxGeocoder.swift: b128b1e811b440aa59ba7b5a249a1e3212d55700
+  MapboxMobileEvents: 2bc0ca2eedb627b73cf403258dce2b2fa98074a6
+  Polyline: 0e9890790292741c8186201a536b6bb6a78d02dd
+  SwiftLint: 4fa9579c63416865179bc416f0a92d55f009600d
+
+PODFILE CHECKSUM: 83d7c059a75f5a283cf03ab4f47215657f9d2838
+
+COCOAPODS: 1.10.1
