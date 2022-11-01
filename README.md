@@ -1,4 +1,4 @@
-<a href="https://testflight.apple.com/join/...">
+<a href="https://testflight.apple.com/join/fQBUbOYY">
 <img src="https://developer.apple.com/assets/elements/icons/testflight/testflight-64x64_2x.png" height="42" align="right">
 </a>
 
